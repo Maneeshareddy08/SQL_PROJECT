@@ -1,18 +1,18 @@
-Introduction :
+**Introduction** :
 
-Motivated by a desire to effectively navigate the data analyst job market, this project seeks to identify top-paid and in-demand skills, thereby streamlining the job search process for others. The dataset for this project is sourced from Luke Barousse's website
+Motivated by a desire to effectively navigate the data analyst job market, this project seeks to identify top-paid and in-demand skills, thereby streamlining the job search process for others. The dataset for this project is sourced from Luke Barousse's website.
 
-Tools Used :
+**Tools Used** :
 
-SQL: The foundation of my analysis, allowing me to query databases and extract crucial insights.
+**SQL**: The foundation of my analysis, allowing me to query databases and extract crucial insights.
 
-PostgreSQL:  The database management system of choice, ideal for managing job posting data.
+**PostgreSQL**:  The database management system of choice, ideal for managing job posting data.
 
-Visual Studio Code: My preferred environment for database management and executing SQL queries.
+**Visual Studio Code**: My preferred environment for database management and executing SQL queries.
 
-Git & GitHub: Essential tools for version control and sharing SQL scripts and analyses, ensuring collaboration and project tracking.
+**Git & GitHub**: Essential tools for version control and sharing SQL scripts and analyses, ensuring collaboration and project tracking.
 
-The questions I aswered through SQL queries :
+**The questions I aswered through SQL queries** :
 
 1. **What are the top-paying data analyst jobs?**
 
